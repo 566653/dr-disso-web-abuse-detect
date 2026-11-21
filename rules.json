@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sql_injection",
+    "field": "sql_injection_indicator",
+    "equals": true,
+    "score": 70,
+    "reason": "sql injection"
+  },
+  {
+    "id": "path_traversal",
+    "field": "path_traversal",
+    "equals": true,
+    "score": 65,
+    "reason": "path traversal"
+  },
+  {
+    "id": "credential_stuffing",
+    "field": "credential_stuffing",
+    "equals": true,
+    "score": 55,
+    "reason": "credential stuffing"
+  },
+  {
+    "id": "bot_spike",
+    "field": "bot_spike",
+    "equals": true,
+    "score": 25,
+    "reason": "bot spike"
+  }
+]

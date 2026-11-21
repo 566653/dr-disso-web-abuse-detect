@@ -1,0 +1,11 @@
+[
+  {
+    "id": "synthetic-001",
+    "sql_injection_indicator": true,
+    "path_traversal": true
+  },
+  {
+    "id": "synthetic-002",
+    "note": "benign"
+  }
+]
